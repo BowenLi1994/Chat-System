@@ -15,6 +15,8 @@ A messenger application has two components: a messenger server and messenger cli
 1. Register a user;
 2. Login to the chat system;
 3. Exit the chat system;
+
+
 After log into the chat system, you can do the following tasks:
 1. Invite friends;
 2. Accept friends' invitation;
