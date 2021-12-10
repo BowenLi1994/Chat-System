@@ -42,4 +42,4 @@ After log into the chat system, you can do the following tasks:
 10. exit -- quit the program.
 11. when you type control+c on client and server to stop the program.
 
--P.S. And I use select function on client side and use pthread on server side.
+- P.S. And I use select function on client side and use pthread on server side.
